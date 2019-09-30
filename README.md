@@ -1,0 +1,2 @@
+# Nedbetalingskalkulator
+Nedbetalingskalkulator for Stacc kodeoppgave2019
